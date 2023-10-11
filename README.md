@@ -1,3 +1,3 @@
 ## Description
 
-Rollover effects using CSS selectors
+Rollover effects using CSS selectors.
